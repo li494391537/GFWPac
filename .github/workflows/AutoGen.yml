@@ -3,7 +3,7 @@ name: gfwlist2pac
 on:
   workflow_dispatch:
   schedule:
-      - cron: '0 1 * * *'
+      - cron: '0 */12 * * *'
 
 jobs:
   bot:
@@ -11,6 +11,7 @@ jobs:
     steps:
       - name: checkout actions
         uses: actions/checkout@v1
+
       - uses: actions/setup-python@v4
         with:
             python-version: '3.9'
@@ -19,7 +20,7 @@ jobs:
         run: pip install -U genpac
 
       - name: update pac
-        run: genpac --format=pac --pac-proxy="SOCKS5 127.0.0.1:1079" -o gfwlist.pac
+        run: genpac --format=pac --pac-proxy="SOCKS5 127.0.0.1:10808" --user-rule-from user_rule.txt -o gfwlist.pac
 
       - name: commit
         run: |
@@ -32,5 +33,3 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: main
-          
-          
