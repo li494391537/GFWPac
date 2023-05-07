@@ -1,1 +1,4 @@
 ||kemono.party
+||bing.com
+||bing.cn
+||microsoft.com
