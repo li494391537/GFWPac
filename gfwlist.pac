@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-03-28 12:32:38
- * GFWList Last-Modified: 2024-02-19 15:27:32
+ * Generated: 2024-03-29 01:13:32
+ * GFWList Last-Modified: 2024-03-28 18:51:38
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -434,6 +434,7 @@ var rules = [
             "archive.fo",
             "archive.is",
             "archive.li",
+            "archive.md",
             "archive.org",
             "archive.ph",
             "archive.today",
@@ -797,6 +798,7 @@ var rules = [
             "c-spanvideo.org",
             "c100tibet.org",
             "c2cx.com",
+            "cableav.tv",
             "cablegatesearch.net",
             "cachinese.com",
             "cacnw.com",
@@ -1011,6 +1013,7 @@ var rules = [
             "chubun.com",
             "churchinhongkong.org",
             "chushigangdrug.ch",
+            "ciciai.com",
             "cienen.com",
             "cineastentreff.de",
             "cipfg.org",
@@ -1131,6 +1134,7 @@ var rules = [
             "cotweet.com",
             "counter.social",
             "coursehero.com",
+            "coze.com",
             "cpj.org",
             "cq99.us",
             "crackle.com",
