@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-06-02 12:32:28
- * GFWList Last-Modified: 2024-06-01 15:27:48
+ * Generated: 2024-06-03 01:21:51
+ * GFWList Last-Modified: 2024-06-02 15:11:56
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -4032,6 +4032,7 @@ var rules = [
             "piposay.com",
             "piraattilahti.org",
             "piring.com",
+            "pixeldrain.com",
             "pixelqi.com",
             "pixiv.net",
             "pixnet.in",
@@ -5929,7 +5930,6 @@ var rules = [
             "yingsuoss.com",
             "yinlei.org",
             "yipub.com",
-            "yiyechat.com",
             "yizhihongxing.com",
             "yobit.net",
             "yobt.com",
@@ -5978,13 +5978,13 @@ var rules = [
             "yuanzhengtang.org",
             "yulghun.com",
             "yunchao.net",
-            "yuntipub.com",
             "yuvutu.com",
             "yvesgeleyn.com",
             "ywpw.com",
             "yx51.net",
             "yyii.org",
             "yyjlymb.xyz",
+            "yysub.net",
             "yzzk.com",
             "z-lib.org",
             "zacebook.com",
