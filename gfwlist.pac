@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2024-07-28 12:34:17
- * GFWList Last-Modified: 2024-07-20 17:42:41
+ * Generated: 2024-07-29 01:34:02
+ * GFWList Last-Modified: 2024-07-29 00:49:46
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -560,6 +560,7 @@ var rules = [
             "axureformac.com",
             "azerbaycan.tv",
             "azerimix.com",
+            "azirevpn.com",
             "azubu.tv",
             "azurewebsites.net",
             "b-ok.cc",
@@ -1172,6 +1173,7 @@ var rules = [
             "clubhouseapi.com",
             "clyp.it",
             "cmcn.org",
+            "cmegroup.com",
             "cmi.org.tw",
             "cmp.hku.hk",
             "cms.gov",
@@ -2876,6 +2878,7 @@ var rules = [
             "imageab.com",
             "imagefap.com",
             "imageflea.com",
+            "imageglass.org",
             "images-gaytube.com",
             "images.comico.tw",
             "imageshack.us",
