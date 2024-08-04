@@ -1,7 +1,7 @@
 /**
  * genpac 3.0.1 https://github.com/JinnLynn/genpac
- * Generated: 2024-08-03 12:34:29
- * GFWList Last-Modified: 2024-07-29 00:49:46
+ * Generated: 2024-08-04 01:37:31
+ * GFWList Last-Modified: 2024-08-04 01:26:19
  * GFWList From: online[https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt]
  */
 
@@ -2997,6 +2997,7 @@ var rules = [
             "ivacy.com",
             "iverycd.com",
             "ivpn.net",
+            "iwara.tv",
             "ixquick.com",
             "ixxx.com",
             "iyouport.com",
@@ -5208,6 +5209,7 @@ var rules = [
             "tibetswiss.ch",
             "tibettelegraph.com",
             "tibettimes.net",
+            "tibettruth.com",
             "tibetwrites.org",
             "ticket.com.tw",
             "tigervpn.com",
