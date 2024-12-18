@@ -24,8 +24,8 @@ jobs:
 
       - name: commit
         run: |
-            git config --global user.email li494391537@users.noreply.github.com
-            git config --global user.name li494391537
+            git config --global user.email icechestnut@users.noreply.github.com
+            git config --global user.name icechestnut
             git add gfwlist.pac
             git commit -m "update pac" -a
       - name: push changes
